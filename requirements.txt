@@ -1,0 +1,5 @@
+streamlit>=1.45
+openai>=1.82
+langchain>=0.3.25
+langchain-openai>=0.3.18
+langchain-community>=0.0.15
